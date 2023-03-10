@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CommandWord
+comment0.text=\r\n\ Representations\ for\ all\ the\ valid\ command\ words\ for\ the\ game.\r\n\ \r\n\ @author\ Luca\r\n\ @version\ 24/05/2022\r\n
+comment1.params=pEn\ pFr
+comment1.target=CommandWord(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Initialise\ with\ the\ corresponding\ command\ word\ and\ the\ translate\ in\ fr.\r\n\ @param\ pEn\ The\ command\ string\ \r\n\ @param\ pFr\ The\ command\ string\ in\ Fr.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getEnWord()
+comment2.text=\r\n\ @return\ The\ command\ word\ as\ a\ string\ in\ english.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getFrWord()
+comment3.text=\r\n\ @return\ The\ command\ word\ as\ a\ string\ in\ french.\r\n
+numComments=4

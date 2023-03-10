@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TransporterRoom
+comment0.text=\r\n\ Classe\ de\ Transporter\ Room\r\n\r\n\ @author\ Luca\r\n\ @version\ 24/05/2022\r\n
+comment1.params=pDescription\ pImage\ pRooms
+comment1.target=TransporterRoom(java.lang.String,\ java.lang.String,\ java.util.ArrayList)
+comment1.text=\r\n\ Constructeur\ d'une\ room\r\n\ @param\ pDescription\ String\r\n\ @param\ pImage\ String\r\n\ @param\ pRooms\ ArrayList\ de\ Room\r\n
+comment2.params=pDirection
+comment2.target=Room\ getExit(java.lang.String)
+comment2.text=\r\n\ renvoie\ la\ sortie\ qui\ est\ donn\u00E9e\ par\ RoomRandomizer\r\n\ @param\ pDirection\ String\r\n\ @return\ Room\r\n
+comment3.params=
+comment3.target=boolean\ isTransporter()
+comment3.text=\r\n\ renvoie\ si\ la\ room\ est\ un\ transporter\ \r\n\ @return\ boolean\ vrai\r\n
+comment4.params=pNum
+comment4.target=void\ setAlea(int)
+comment4.text=\r\n\ met\ l'alea\ \u00E0\ une\ salle\ pr\u00E9cise\r\n\ @param\ pNum\ int\ de\ l'alea\ donc\ de\ la\ room\ de\ l'ArrayList\r\n
+numComments=5

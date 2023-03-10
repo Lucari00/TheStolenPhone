@@ -1,0 +1,29 @@
+go north
+go north
+take keyfbi
+go south
+go west
+open up
+go up
+take ticket
+go down
+go east
+go south
+open south
+go south
+go east
+go south
+take knife
+go west
+fight
+take phone
+back
+back
+back
+back
+back
+go north
+go north
+open north
+go north
+drop phone

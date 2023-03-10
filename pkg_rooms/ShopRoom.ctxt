@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=ShopRoom
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ ShopRoom\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=pDescription\ pImage\ pHasPassword\ pPassword
+comment1.target=ShopRoom(java.lang.String,\ java.lang.String,\ boolean,\ java.lang.String)
+comment2.params=pItem
+comment2.target=void\ addItem(pkg_items.Item)
+comment3.params=pItemName
+comment3.target=void\ removeItem(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getLongDescription()
+comment5.params=
+comment5.target=java.lang.String\ getItemList()
+comment6.params=
+comment6.target=boolean\ isShop()
+comment7.params=pName
+comment7.target=pkg_items.Item\ getItem(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getPassword()
+comment9.params=
+comment9.target=boolean\ hasPassword()
+numComments=10

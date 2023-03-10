@@ -1,0 +1,84 @@
+testmod vrai
+alea 5
+go east
+roomIs AirportAmerica.jpg
+roomHas sandwich
+take sandwich
+playerHas Sandwich
+roomHasNot sandwich
+drop sandwich
+playerHasNot sandwich
+roomHas sandwich
+take sandwich
+go north
+roomIs BoulevardAmerica.jpg
+go north
+roomIs AlleyAmerica.jpg
+roomHas keyfbi
+take keyfbi
+playerHas keyfbi
+roomHasNot keyfbi
+go east
+roomIs SmallAlley.jpg
+go west
+roomIs SmallAlley.jpg
+go east
+roomIs Labo.jpg
+go up
+roomIs HouseInside.jpg
+roomHas beamer
+take beamer
+playerHas beamer
+roomHasNot beamer
+fire
+charge
+open south
+go south
+roomIs HouseAmerica.jpg
+close south
+close east
+open west
+fire
+roomIs HouseInside.jpg
+go south
+roomIs HouseAmerica.jpg
+go south
+roomIs AlleyAmerica.jpg
+go south
+roomIs BoulevardAmerica.jpg
+give
+playerHas prot
+eat prot
+go west
+roomIs FBIoutside.jpg
+go up
+roomIs FBIinside.jpg
+take ticket
+back
+roomIs FBIoutside.jpg
+back
+roomIs BoulevardAmerica.jpg
+help
+look
+eat
+inventory
+go south
+open south
+go south
+fight
+go east
+go south
+take knife
+go west
+fight
+take phone
+back
+back
+back
+back
+go north
+go north
+go north
+go north
+go north
+drop phone

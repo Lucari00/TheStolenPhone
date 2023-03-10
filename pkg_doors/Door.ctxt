@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Door
+comment0.text=\r\n\ Classe\ d'une\ porte\r\n\r\n\ @author\ Luca\r\n\ @version\ 24/05/2022\r\n
+comment1.params=pIsLocked
+comment1.target=Door(boolean)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Door\r\n\ @param\ pIsLocked\ boolean\r\n
+comment2.params=
+comment2.target=boolean\ isLocked()
+comment2.text=\r\n\ Accesseur\ de\ si\ la\ porte\ est\ ferm\u00E9e\ ou\ non\r\n\ @return\ boolean\ vrai\ si\ ferm\u00E9e,\ faux\ si\ ouvert\r\n
+comment3.params=pC
+comment3.target=void\ setLocked(boolean)
+comment3.text=\r\n\ Getter\ pour\ changer\ l'\u00E9tat\ de\ la\ porte,\ ouvert\ ou\ ferm\u00E9e\r\n\ @param\ pC\ boolean,\ true\ ferm\u00E9e,\ false\ ouvert\r\n
+numComments=4

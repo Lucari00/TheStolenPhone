@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=ItemList
+comment0.text=\r\n\ Gestion\ des\ items\r\n\r\n\ @author\ Luca\r\n\ @version\ 12/04/2022\r\n
+comment1.params=
+comment1.target=ItemList()
+comment1.text=\r\n\ Constructor\ de\ ItemList\r\n
+comment2.params=pName
+comment2.target=Item\ getItem(java.lang.String)
+comment2.text=\r\n\ Retourne\ l'item\ demand\u00E9\r\n\ @param\ pName\ String\ de\ l'item\r\n\ @return\ Item\ \r\n
+comment3.params=
+comment3.target=boolean\ isEmpty()
+comment3.text=\r\n\ Retourne\ si\ la\ HashMap\ est\ vide\ ou\ non\r\n\ @return\ boolean,\ vrai\ si\ vide,\ faux\ si\ non\ vide\r\n
+comment4.params=pItem
+comment4.target=void\ addItem(Item)
+comment4.text=\r\n\ Ajoute\ l'item\ \u00E0\ la\ HashMap\r\n\ @param\ pItem\ Item\r\n
+comment5.params=pName
+comment5.target=void\ removeItem(java.lang.String)
+comment5.text=\r\n\ Enl\u00E8ve\ l'item\ de\ la\ HashMap\r\n\ @param\ pName\ String\ de\ l'item\r\n
+comment6.params=
+comment6.target=java.lang.String\ getItemString()
+comment6.text=\r\n\ Envoie\ la\ description\ avec\ le\ nom,\ la\ description,\ le\ poids\ et\ le\ prix\r\n\ @return\ String\r\n
+comment7.params=
+comment7.target=java.lang.String\ getItemStringGUI()
+comment8.params=
+comment8.target=java.lang.String\ getItemStringShop()
+numComments=9

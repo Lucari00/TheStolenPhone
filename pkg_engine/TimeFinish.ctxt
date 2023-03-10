@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=TimeFinish
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ TimeFinish\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=
+comment1.target=TimeFinish()
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ TimeFinish\r\n
+comment2.params=
+comment2.target=void\ takeTime()
+comment3.params=
+comment3.target=void\ takeTimeInter()
+comment4.params=
+comment4.target=void\ getDifferenceInTxt()
+comment5.params=
+comment5.target=java.lang.String\ getString()
+comment6.params=
+comment6.target=java.lang.String\ getStringGUI()
+numComments=7

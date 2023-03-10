@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=RoomRandomizer
+comment0.text=\r\n\ Classe\ qui\ donne\ une\ room\ al\u00E9atoire.\r\n\r\n\ @author\ Luca\r\n\ @version\ 24/05/2022\r\n
+comment1.params=pRooms
+comment1.target=RoomRandomizer(java.util.ArrayList)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ RoomRandomizer\r\n\ @param\ pRooms\ ArrayList\ de\ Room\r\n
+comment2.params=
+comment2.target=Room\ findRandomRoom()
+comment2.text=\r\n\ Renvoie\ une\ salle\ pseudorandom\r\n\ @return\ Room\r\n
+comment3.params=pNum
+comment3.target=void\ setAlea(int)
+comment3.text=\r\n\ Setter\ alea\r\n\ @param\ pNum\ int\r\n
+numComments=4

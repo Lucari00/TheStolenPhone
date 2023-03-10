@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\r\n\ Classe\ qui\ d\u00E9finie\ un\ item\r\n\r\n\ @author\ Luca\r\n\ @version\ 13/04/22\r\n
+comment1.params=pName\ pDescription\ pWeight\ pPrice
+comment1.target=Item(java.lang.String,\ java.lang.String,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Item\r\n\ @param\ pName\ String\r\n\ @param\ pDescription\ String\ \r\n\ @param\ pWeight\ int\ \r\n\ @param\ pPrice\ int\r\n
+comment2.params=
+comment2.target=boolean\ isEatable()
+comment3.params=
+comment3.target=java.lang.String\ getDescription()
+comment3.text=\r\n\ Envoie\ la\ description\ de\ l'item\r\n\ @return\ String\ nom\ et\ la\ description\r\n
+comment4.params=
+comment4.target=java.lang.String\ getDescriptionGUI()
+comment5.params=
+comment5.target=int\ getWeight()
+comment5.text=\r\n\ Envoie\ le\ poids\ de\ l'item\r\n\ @return\ int\ Poids\r\n
+comment6.params=
+comment6.target=int\ getPrice()
+comment6.text=\r\n\ Envoie\ le\ prix\ de\ l'item\r\n\ @return\ int\ Prix\r\n
+comment7.params=
+comment7.target=java.lang.String\ getName()
+comment7.text=\r\n\ Envoie\ le\ nom\ de\ l'item\r\n\ @return\ String\ Nom\r\n
+comment8.params=
+comment8.target=java.lang.String\ getLongDescription()
+comment8.text=\r\n\ Envoie\ la\ description\ avec\ le\ nom,\ la\ description,\ le\ poids\ et\ le\ prix\r\n\ @return\ String\ long\ description\r\n
+numComments=9

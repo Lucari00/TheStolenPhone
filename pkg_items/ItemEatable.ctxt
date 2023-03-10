@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ItemEatable
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ ItemEatable\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=pName\ pDescription\ pWeight\ pPrice\ pNumberOfMoveProvided
+comment1.target=ItemEatable(java.lang.String,\ java.lang.String,\ int,\ int,\ int)
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ ItemEatable\r\n
+comment2.params=
+comment2.target=int\ getNumberOfMoveProvided()
+comment3.params=pNumberOfMoveProvided
+comment3.target=void\ setNumberOfMoveProvided(int)
+comment4.params=
+comment4.target=boolean\ isEatable()
+numComments=5

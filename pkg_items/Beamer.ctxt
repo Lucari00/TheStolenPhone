@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Beamer
+comment0.text=\r\n\ Classe\ de\ l'item\ beamer\r\n\r\n\ @author\ Luca\r\n\ @version\ 24/05/2022\r\n
+comment1.params=pName\ pDescription\ pWeight\ pPrice
+comment1.target=Beamer(java.lang.String,\ java.lang.String,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Beamer\r\n\ @param\ pName\ String\r\n\ @param\ pDescription\ String\r\n\ @param\ pWeight\ int\r\n\ @param\ pPrice\ int\r\n
+comment2.params=
+comment2.target=boolean\ isCharged()
+comment2.text=\r\n\ Accesseur\ si\ le\ beamer\ est\ charg\u00E9\r\n\ @return\ boolean\r\n
+comment3.params=pRoom
+comment3.target=void\ charge(pkg_rooms.Room)
+comment3.text=\r\n\ Commande\ pour\ charger\ le\ beamer\ de\ la\ salle\r\n\ @param\ pRoom\ Room\ de\ la\ salle\ \u00E0\ charger\r\n
+comment4.params=
+comment4.target=pkg_rooms.Room\ getChargedRoom()
+comment4.text=\r\n\ Accesseur\ de\ la\ salle\ charg\u00E9e\r\n\ @return\ Room\r\n
+numComments=5

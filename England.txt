@@ -1,0 +1,18 @@
+go north
+go north
+take keyfbi
+go north
+open north
+go north
+back
+back
+back
+go west
+give
+go up
+take ticket
+back
+back
+go south
+open south
+go south

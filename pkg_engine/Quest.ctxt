@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Quest
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ Quest\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=pName\ pDescription
+comment1.target=Quest(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ Quest\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=java.lang.String\ getDescription()
+comment4.params=
+comment4.target=void\ setFound()
+comment5.params=
+comment5.target=boolean\ isFound()
+comment6.params=pDoing
+comment6.target=void\ setIsDoing(boolean)
+comment7.params=
+comment7.target=boolean\ getIsDoing()
+comment8.params=
+comment8.target=java.lang.String\ getLongDescription()
+numComments=9

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Parser
+comment0.text=\r\n\ Classe\ du\ parser\r\n\ @author\ Luca\r\n\ @version\ 24/05/2022\r\n
+comment1.params=
+comment1.target=Parser()
+comment1.text=\r\n\ Create\ a\ new\ Parser.\r\n
+comment2.params=pInputLine
+comment2.target=Command\ getCommand(java.lang.String)
+comment2.text=\r\n\ Get\ a\ new\ command\ from\ the\ user.\ The\ command\ is\ read\ by\r\n\ parsing\ the\ 'inputLine'.\r\n\ @param\ pInputLine\ String\r\n\ @return\ Command\r\n
+comment3.params=
+comment3.target=java.lang.String\ getCommandString()
+comment3.text=\r\n\ Returns\ a\ String\ with\ valid\ command\ words.\r\n\ @return\ String\r\n
+numComments=4

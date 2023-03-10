@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=CommandWords
+comment0.text=\r\n\ This\ class\ is\ part\ of\ the\ "World\ of\ Zuul"\ application.\ \r\n\ "World\ of\ Zuul"\ is\ a\ very\ simple,\ text\ based\ adventure\ game.\ \ \r\n\ \r\n\ This\ class\ holds\ an\ enumeration\ table\ of\ all\ command\ words\ known\ to\ the\ game.\r\n\ It\ is\ used\ to\ recognise\ commands\ as\ they\ are\ typed\ in.\r\n\r\n\ @author\ \ Michael\ Kolling\ and\ David\ J.\ Barnes\ +\ D.Bureau\r\n\ @version\ 2008.03.30\ +\ 2019.09.25\ +\ 24/05/2022\r\n
+comment1.params=
+comment1.target=CommandWords()
+comment1.text=\ \r\n\ Constructor\ -\ initialise\ the\ command\ words.\r\n
+comment2.params=pString
+comment2.target=boolean\ isCommand(java.lang.String)
+comment2.text=\r\n\ Check\ whether\ a\ given\ String\ is\ a\ valid\ command\ word.\r\n\ @param\ pString\ String\r\n\ @return\ true\ if\ a\ given\ string\ is\ a\ valid\ command,\r\n\ false\ if\ it\ isn't.\r\n
+comment3.params=pWord
+comment3.target=Command\ get(java.lang.String)
+comment4.params=pCommandWord
+comment4.target=CommandWord\ getCommandWord(java.lang.String)
+comment4.text=\r\n\ Find\ the\ CommandWord\ associated\ with\ a\ command\ word.\r\n\ @param\ pCommandWord\ The\ word\ to\ look\ up.\r\n\ @return\ The\ CommandWord\ correspondng\ to\ commandWord,\ or\ UNKNOWN\r\n\ \ \ \ \ \ \ \ \ if\ it\ is\ not\ a\ valid\ command\ word.\r\n
+comment5.params=
+comment5.target=java.lang.String\ getCommandList()
+comment5.text=\r\n\ \r\n\ @return\ String\ of\ all\ commands\r\n
+numComments=6

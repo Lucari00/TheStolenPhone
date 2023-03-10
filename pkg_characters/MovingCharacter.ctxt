@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MovingCharacter
+comment0.text=\r\n\ Classe\ d'un\ character\r\n\r\n\ @author\ Luca\r\n\ @version\ 24/05/2022\r\n
+comment1.params=pName\ pCurrentRoom\ pNeedItem\ pGiveItem\ pSkin
+comment1.target=MovingCharacter(java.lang.String,\ pkg_rooms.Room,\ pkg_items.Item,\ pkg_items.Item,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MovingCharacter\r\n\ @param\ pName\ String\r\n\ @param\ pCurrentRoom\ Room\r\n\ @param\ pNeedItem\ Item\r\n\ @param\ pGiveItem\ Item\r\n
+comment2.params=pRoom
+comment2.target=void\ addRoom(pkg_rooms.Room)
+comment2.text=\r\n\ Ajout\ d'une\ room\ \u00E0\ la\ liste\ des\ rooms\ o\u00F9\ le\ pnj\ se\ d\u00E9place\r\n\ @param\ pRoom\ Room\r\n
+comment3.params=
+comment3.target=void\ changeRoom()
+comment3.text=\r\n\ M\u00E9thode\ qui\ fait\ avancer\ le\ pnj\ dans\ la\ pi\u00E8ce\ suivante\r\n
+numComments=4

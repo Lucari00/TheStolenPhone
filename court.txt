@@ -1,0 +1,6 @@
+go north
+go north
+take keyfbi
+back
+go west
+give

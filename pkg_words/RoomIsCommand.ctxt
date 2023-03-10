@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=RoomIsCommand
+comment0.text=\r\n\ Classe\ de\ la\ commande\ RoomIsCommand\r\n\r\n\ @author\ Luca\r\n\ @version\ 24/05\r\n
+comment1.params=
+comment1.target=RoomIsCommand()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ RoomIsCommand\r\n
+comment2.params=aPlayer\ aGui\ pGameEngine
+comment2.target=boolean\ execute(pkg_characters.Player,\ pkg_engine.UserInterface,\ pkg_engine.GameEngine)
+comment2.text=\ \r\n\ Fonction\ de\ la\ commande\ RoomIsCommand\r\n\ @param\ aPlayer\ Player\r\n\ @param\ aGui\ UserInterface\r\n\ @param\ pGameEngine\ GameEngine\r\n\ \r\n\ return\ boolean\ vrai\ pour\ arr\u00EAter\ le\ jeu,\ faux\ pour\ continuer\r\n
+numComments=3

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Command
+comment0.text=\r\n\ Classe\ qui\ permet\ de\ cr\u00E9er\ une\ commande\r\n\r\n\ @author\ PALAYSI\ Luca\r\n\ @version\ 24/05/2022\r\n
+comment1.params=
+comment1.target=Command()
+comment1.text=\r\n\ Constructeur\ d'une\ commande\r\n
+comment2.params=
+comment2.target=CommandWord\ getCommandWord()
+comment2.text=\r\n\ Accesseur\ du\ premier\ mot\ de\ la\ commande\ pass\u00E9e\ \r\n\ @return\ CommandWord\r\n
+comment3.params=
+comment3.target=java.lang.String\ getSecondWord()
+comment3.text=\r\n\ Accesseur\ du\ second\ mot\ de\ la\ commande\ pass\u00E9e\ \r\n\ @return\ String\r\n
+comment4.params=pSecondWord
+comment4.target=void\ setSecondWord(java.lang.String)
+comment5.params=
+comment5.target=boolean\ hasSecondWord()
+comment5.text=\r\n\ D\u00E9termine\ si\ la\ commande\ pass\u00E9e\ a\ un\ second\ mot\r\n\ @return\ boolean\r\n
+comment6.params=
+comment6.target=boolean\ isUnknown()
+comment6.text=\r\n\ D\u00E9termine\ si\ la\ commande\ est\ connue\ ou\ non\r\n\ @return\ boolean\r\n
+comment7.params=player\ aGui\ pGameEngine
+comment7.target=boolean\ execute(pkg_characters.Player,\ pkg_engine.UserInterface,\ pkg_engine.GameEngine)
+numComments=8

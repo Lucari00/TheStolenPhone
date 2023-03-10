@@ -1,0 +1,122 @@
+<!DOCTYPE HTML>
+<html lang="fr">
+<head>
+<title>Source code</title>
+<link rel="stylesheet" type="text/css" href="../stylesheet.css" title="Style">
+</head>
+<body>
+<main role="main">
+<div class="sourceContainer">
+<pre><span class="sourceLineNo">001</span><a id="line.1">/**</a>
+<span class="sourceLineNo">002</span><a id="line.2"> * Representations for all the valid command words for the game.</a>
+<span class="sourceLineNo">003</span><a id="line.3"> * </a>
+<span class="sourceLineNo">004</span><a id="line.4"> * @author Luca</a>
+<span class="sourceLineNo">005</span><a id="line.5"> * @version 24/05/2022</a>
+<span class="sourceLineNo">006</span><a id="line.6"> */</a>
+<span class="sourceLineNo">007</span><a id="line.7">public enum CommandWord {</a>
+<span class="sourceLineNo">008</span><a id="line.8">    // A value for each command word, plus one for unrecognised</a>
+<span class="sourceLineNo">009</span><a id="line.9">    // commands.</a>
+<span class="sourceLineNo">010</span><a id="line.10">    GO("go", "aller"), QUIT("quit", "quitter"), HELP("help", "aide"), UNKNOWN("?", "?"),</a>
+<span class="sourceLineNo">011</span><a id="line.11">    LOOK("look", "regarder"), EAT("eat", "manger"), BACK("back", "retour"),</a>
+<span class="sourceLineNo">012</span><a id="line.12">    TEST("test", "test"), TAKE("take", "prendre"), DROP("drop", "jeter"), </a>
+<span class="sourceLineNo">013</span><a id="line.13">    INVENTORY("inventory", "inventaire"), ROOMIS("roomIs", "roomIs"), </a>
+<span class="sourceLineNo">014</span><a id="line.14">    ROOMHAS("roomHas", "roomHas"), ROOMHASNOT("roomHasNot", "roomHasNot"), </a>
+<span class="sourceLineNo">015</span><a id="line.15">    PLAYERHAS("playerHas", "playerHas"), PLAYERHASNOT("playerHasNot", "playerHasNot"),</a>
+<span class="sourceLineNo">016</span><a id="line.16">    CHARGE("charge", "charger"), FIRE("fire", "tirer"), OPEN("open", "ouvrir"),</a>
+<span class="sourceLineNo">017</span><a id="line.17">    CLOSE("close","fermer"), ALEA("alea", "alea"), TESTMOD("testmod", "testmod"),</a>
+<span class="sourceLineNo">018</span><a id="line.18">    ;</a>
+<span class="sourceLineNo">019</span><a id="line.19">    </a>
+<span class="sourceLineNo">020</span><a id="line.20">    private String aEn; //command en anglais</a>
+<span class="sourceLineNo">021</span><a id="line.21">    private String aFr; //command en français</a>
+<span class="sourceLineNo">022</span><a id="line.22">    </a>
+<span class="sourceLineNo">023</span><a id="line.23">    /**</a>
+<span class="sourceLineNo">024</span><a id="line.24">     * Initialise with the corresponding command word and the translate in fr.</a>
+<span class="sourceLineNo">025</span><a id="line.25">     * @param pEn The command string </a>
+<span class="sourceLineNo">026</span><a id="line.26">     * @param pFr The command string in Fr.</a>
+<span class="sourceLineNo">027</span><a id="line.27">     */</a>
+<span class="sourceLineNo">028</span><a id="line.28">    CommandWord(final String pEn, final String pFr) {</a>
+<span class="sourceLineNo">029</span><a id="line.29">        this.aEn = pEn;</a>
+<span class="sourceLineNo">030</span><a id="line.30">        this.aFr = pFr;</a>
+<span class="sourceLineNo">031</span><a id="line.31">    }//CommandWord()</a>
+<span class="sourceLineNo">032</span><a id="line.32">    </a>
+<span class="sourceLineNo">033</span><a id="line.33">    /**</a>
+<span class="sourceLineNo">034</span><a id="line.34">     * @return The command word as a string in english.</a>
+<span class="sourceLineNo">035</span><a id="line.35">     */</a>
+<span class="sourceLineNo">036</span><a id="line.36">    public String getEnWord()</a>
+<span class="sourceLineNo">037</span><a id="line.37">    {</a>
+<span class="sourceLineNo">038</span><a id="line.38">        return aEn;</a>
+<span class="sourceLineNo">039</span><a id="line.39">    }//getEnWord()</a>
+<span class="sourceLineNo">040</span><a id="line.40">    </a>
+<span class="sourceLineNo">041</span><a id="line.41">    /**</a>
+<span class="sourceLineNo">042</span><a id="line.42">     * @return The command word as a string in french.</a>
+<span class="sourceLineNo">043</span><a id="line.43">     */</a>
+<span class="sourceLineNo">044</span><a id="line.44">    public String getFrWord()</a>
+<span class="sourceLineNo">045</span><a id="line.45">    {</a>
+<span class="sourceLineNo">046</span><a id="line.46">        return aFr;</a>
+<span class="sourceLineNo">047</span><a id="line.47">    }//getFrWord()</a>
+<span class="sourceLineNo">048</span><a id="line.48">}</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</pre>
+</div>
+</main>
+</body>
+</html>
